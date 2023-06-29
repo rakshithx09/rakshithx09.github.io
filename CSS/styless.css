@@ -1,6 +1,11 @@
 * {
     margin: 0px;
     padding: 0px;
+    
+}
+*::selection{
+    background-color: black;
+    color: #19ddac;
 }
 
 html {
